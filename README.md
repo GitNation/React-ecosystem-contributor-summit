@@ -1,10 +1,10 @@
-# JavaScript frameworks developers summit 2023
+# React Ecosystem contributors summit 2023
 
-All existing JavaScript events gather wide audience of software developers to get updates about technology. There are practically no events designed for JavaScript libraries developers where they can gather in productive setting to discuss common problems and the future of JavaScript ecosystem.
+All existing React events gather wide audience of software developers to get updates about the technology. There are practically no events designed for React libraries developers where they can gather in productive setting to discuss common problems and the future of the React ecosystem.
 
 ## Where and when?
 
-Summit to take place in **Amsterdam, May 31st**. This time it is a sattelite event of JSNation conference but happens at another location in Amsterdam that is disclosed to participants only.
+Summit to take place in **Amsterdam, June 1**. This time it will be a sattelite event of React Summit.
 
 ## What to expect?
 
@@ -15,7 +15,7 @@ Summit to take place in **Amsterdam, May 31st**. This time it is a sattelite eve
 
 ## Every participant can
 - Make a presentation
-- Rise a question or propose a discussion topic
+- Raise a question or propose a discussion topic
 - Ask opinion of other participants
 - Share opinion
 
