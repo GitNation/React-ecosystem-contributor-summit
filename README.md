@@ -23,6 +23,8 @@ Summit to take place in **Amsterdam, June 1**. This time it will be a sattelite 
 
 ## Who is participating?
 
+ - Christoph Nakazawa
+ - Mark Erikson
  - TBC
 
 ## How can I participate?
