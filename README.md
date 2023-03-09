@@ -23,9 +23,7 @@ Summit to take place in **Amsterdam, June 1**. This time it will be a sattelite 
 
 ## Who is participating?
 
- - Participant 1
- - Participant 2
- - TBD
+ - TBC
 
 ## How can I participate?
 
