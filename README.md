@@ -25,6 +25,7 @@ Summit to take place in **Amsterdam, June 1**. This time it will be a sattelite 
 
  - Christoph Nakazawa
  - Mark Erikson
+ - Misko Hevery
  - TBC
 
 ## How can I participate?
