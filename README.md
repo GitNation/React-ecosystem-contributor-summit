@@ -27,6 +27,7 @@ Summit to take place in **Amsterdam, June 1**. This time it will be a sattelite 
  - Mark Erikson
  - Misko Hevery
  - Michel Weststrate
+ - Sylwia Vargas
 
 ## How can I participate?
 
