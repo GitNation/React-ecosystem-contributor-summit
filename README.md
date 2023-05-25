@@ -28,7 +28,21 @@ Summit to take place in **Amsterdam, June 1**. This time it will be a sattelite 
  - Misko Hevery
  - Michel Weststrate
  - Sylwia Vargas
- - and more
+ - Daniel Afonso - moderator
+ - Yoko Li
+ - Dominik Dorfmeister
+ - Fredrik Höglund
+ - Kræn Hansen
+ - Sergey Berezhnoy
+ - Marija Najdova
+ - Jan Peer Stöcklmair
+ - Konstantin Klimashevich
+ - Johannes Goslar
+ - Joel Arvidsson
+ - Aashima Ahuja
+ - Jimmy Lai
+ - Tim Neutkens
+ - JJ Kasper
 
 ## How can I participate?
 
