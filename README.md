@@ -24,6 +24,7 @@ Summit to take place in **Amsterdam, June 13**. It is a sattelite event of React
 ## Who is participating?
 
  - Sathya Gunasekaran, Meta
+ - Atila Fassina, Solid.js
  - Sylwia Vargas
  - Daniel Afonso - moderator
  - Konstantin Klimashevich
