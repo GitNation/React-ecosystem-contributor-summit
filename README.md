@@ -23,13 +23,14 @@ Summit to take place in **Amsterdam, June 13**. It is a sattelite event of React
 
 ## Who is participating?
 
- - Sathya Gunasekaran, Meta
+ - Sathya Gunasekaran, React core team, Meta
+ - Tim Neutkens, Tech lead for Next.js and Turbopack, co-author of Nextjs, MDX, Micro and ncc
  - Atila Fassina, Solid.js
- - Sylwia Vargas
- - Daniel Afonso - moderator
- - Konstantin Klimashevich
- - Johannes Goslar
- - etc
+ - Sylwia Vargas, Co-organizer at React Robins, a community for women and non-binary React devs. Sylwia worked on React Docs
+ - Daniel Afonso - moderator, program committee member of React Summit and React Summit US
+ - Konstantin Klimashevich, program committee member of React Summit, organiser of AdvancedJS Amsterdam meetup
+ - Johannes Goslar, program committee member of React Summit and React Day Berlin
+ - and more
 
 
 ## How can I participate?
