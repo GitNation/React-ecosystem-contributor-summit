@@ -35,4 +35,4 @@ Summit to take place in **Amsterdam, June 13**. It is a sattelite event of React
 
 ## How can I participate?
 
-The strict requirement is you are an author or active contributor to a recognizable open source repository. If you match this criteria and would like to participate please contact events@gitnation.org to be put in the loop.
+The strict requirement is you are an author or active contributor to a recognizable open source repository. If you match this criteria and would like to participate please fill in the form - https://forms.gle/AS5mG77gL549FAae8
