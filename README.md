@@ -1,6 +1,6 @@
 ![React ecosystem contributors summit](./header_2025.gif?raw=true)
 
-All existing React events gather wide audience of software developers to get updates about the technology. There are practically no events designed for React libraries developers where they can gather in productive setting to discuss common problems and the future of the React ecosystem. That's why last year we organised the first React Ecosystem Contributors Summit, and this year will be its 3rd edition!
+All existing React events gather wide audience of software developers to get updates about the technology. There are practically no events designed for React libraries developers where they can gather in productive setting to discuss common problems and the future of the React ecosystem. That's why we've been organising the React Ecosystem Contributors Summit, and this year will be its 3rd edition!
 
 The main goals are: to create a place for libraries developers/ tools developers networking, where they can get feedback from other libraries developers in real time and where they can address the needs of developers and discuss them. 
 
