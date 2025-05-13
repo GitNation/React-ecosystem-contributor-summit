@@ -23,7 +23,23 @@ Summit to take place in **Amsterdam, June 12**. It is a sattelite event of React
 
 ## Who is participating?
 
-TBC
+- Tanner Linsley
+- Evan Bacon
+- Jarred Sumner
+- Tim Neutkens
+- Adrian Hajdin
+- Miguel Angel Durán García
+- Mark Erikson
+- Mike Grabowski
+- Xuan Huang
+- Krasimir Tsonev
+- Naman Goel
+- Ankita Kulkarni
+- Kræn Hansen
+- Marija Najdova 
+- Olivier Tassinari
+- and more
+moderators: Rita Castro, Johannes Goslar
 
 
 ## How can I participate?
